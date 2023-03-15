@@ -1,6 +1,6 @@
 ### HW3_sense_tagger
 
-- 題目詳細說明請參考 HW3_sense_tagger.ipynb_
+- 題目詳細說明請參考 HW3_sense_tagger.ipynb
 
 - 使用語料：教科書課文.csv
 
