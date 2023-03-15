@@ -1,4 +1,4 @@
-### HW3_sense_tagger
+### HW3 SenseTagger
 
 - 題目詳細說明請參考 HW3_sense_tagger.ipynb
 
